@@ -16,7 +16,7 @@ Analysis consists of:
 Thank you to:
 * [makereadme.com](https://www.makeareadme.com) for README.md template
 * [commonmark.org](https://commonmark.org/help) for instructions on Markdown
-* [mongodb.com](https://pandas.pydata.org](https://www.mongodb.com/docs/manual/reference) for refreshers on MongoDB usage/code
+* [mongodb.com](https://www.mongodb.com/docs/manual/reference) for refreshers on MongoDB usage/code
 
 ## Project status
 Project has been completed and submitted for grading for the 2023 UCF Data Analysis and Visualization course.
